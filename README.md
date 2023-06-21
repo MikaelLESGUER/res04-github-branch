@@ -1,2 +1,2 @@
 # res04-github-branch
-apprentissage des branche avec github
+apprentissage des branches avec github
