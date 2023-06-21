@@ -2,3 +2,11 @@ h1, h2 {
     text-transform: uppercase;
     font-weight: bold;
 }
+
+.box {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    opacity: 0;
+    transition: opacity 1s;
+}
